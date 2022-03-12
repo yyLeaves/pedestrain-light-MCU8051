@@ -1,5 +1,5 @@
 # pedestrain-light-MCU8051
-Code and [report](cso_report_pedestrian_light.pdf) for course WIX1003 Computer System Organization (2020/2021 semester 1), which simulates the countdown and pedestrain lights for crossroad. 
+Code and [report](cso_report_pedestrian_light.pdf) for course WIX1003 Computer System Organization (2020/2021 semester 1), which uses mcu8051 to simulate the countdown and pedestrain lights for crossroad
 
 # Pedestrain Component Connection
 ![pedestrain connection diagram](pedestrian_light.jpg)
